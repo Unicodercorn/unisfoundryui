@@ -1,0 +1,16 @@
+{
+  "id": "unis-ui",
+  "title": "Uni's Ui",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Uni"
+    }
+  ],
+  "url": "https://github.com/Unicodercorn/enhancedcombathud",
+  "manifest": "https://github.com/theripper93/enhancedcombathud/releases/latest/download/module.json"
+}
