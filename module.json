@@ -12,4 +12,8 @@
     "minimum": "10",
     "verified": "11"
   }
+  
+  "url": "https://github.com/Unicodercorn/unisfoundryui",
+  "download": "https://github.com/Saibot393/Rideable/archive/refs/tags/v2.5.2.zip",
+  "manifest": "https://raw.githubusercontent.com/Unicodercorn/unisfoundryui/main/module.json",
 }
