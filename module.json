@@ -1,19 +1,17 @@
 {
-  "id": "uni-ui",
-  "title": "uni's ui",
-  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
-  "authors": [
-    {
-    "name": "Atropos"
-    }
-  ],
-  "version": "1.0.0",
-  "compatibility": {
-    "minimum": "10",
-    "verified": "11"
-  },
-  
-  "url": "https://github.com/Unicodercorn/unisfoundryui",
-  "download": "https://github.com/Saibot393/Rideable/archive/refs/tags/v2.5.2.zip",
-  "manifest": "https://raw.githubusercontent.com/Unicodercorn/unisfoundryui/main/module.json"
+	"id": "uni-ui",
+	"title": "uni's ui",
+	"description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+	"authors": [{
+		"name": "Atropos"
+	}],
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "11"
+	},
+
+	"url": "https://github.com/Unicodercorn/unisfoundryui",
+	"download": "https://github.com/Saibot393/Rideable/archive/refs/tags/v2.5.2.zip",
+	"manifest": "https://raw.githubusercontent.com/Unicodercorn/unisfoundryui/main/module.json"
 }
