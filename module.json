@@ -1,16 +1,15 @@
 {
-  "id": "unis-ui",
-  "title": "Uni's Ui",
-  "version": "1.0.1",
-  "compatibility": {
-    "minimum": "11",
-    "verified": "11"
-  },
+  "id": "uni-ui",
+  "title": "uni's ui",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
   "authors": [
     {
-      "name": "Uni"
+    "name": "Atropos"
     }
   ],
-  "url": "https://github.com/Unicodercorn/unisfoundryui",
-  "manifest": "https://github.com/theripper93/enhancedcombathud/releases/latest/download/module.json"
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
 }
